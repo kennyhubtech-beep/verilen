@@ -1,6 +1,6 @@
-import VerilensAI from "./VerilensAI";
+import VeriLensAI from "./VeriLensAI";
 function App() {
-  return <VerilensAI />
+  return <VeriLensAI />
 }
 
 export default App
